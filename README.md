@@ -47,6 +47,14 @@ Internal tools built for Peps Industries — private repos, described here by pr
 - **HRM Pre-Payroll Control Centre** — Flask + SQL Server app that runs automated pre-payroll checks and keeps a full audit history of each cycle, replacing manual spreadsheet verification before payroll runs.
 - **Blue Dart Shipment Tracker** — Automates AWB status tracking for e-commerce orders (Amazon/Flipkart), batching calls to the courier API and keeping a change-only status history instead of manual portal lookups.
 - **Auto ERP Reports** — Scheduled pipelines that log into Ramco ERP, pull daily reports (Sales Register, Inventory Stock Transfer, and more), and deliver them by Excel, email, or WhatsApp with zero manual steps.
+- **Sales Transaction Report Pipeline** — Logs into Ramco, exports the Sales Transactions Report (Mattresses), and processes it on schedule, removing a daily manual export step.
+- **Bill of Materials Automation** — Generates and maintains BOM data automatically instead of manual spreadsheet upkeep.
+- **Customer Aging / Outstanding Report System** — Consolidates data from multiple Excel sources into interactive HTML aging dashboards, replacing manual aging-report consolidation.
+- **Address Geocoding Engine** — Fault-tolerant Python pipeline that converts large volumes of retailer address/pincode data into latitude-longitude coordinates, correcting district/pincode mismatches at scale.
+- **Power BI Map Visual** — Custom interactive Power BI map visual supporting up to 100,000 data points with layering and clustering, built for retailer/geography reporting.
+- **API-to-SQL Automation** — Configurable Python pipeline that authenticates against source APIs and loads data into SQL Server on a schedule (ETL for internal reporting).
+- **Mattress Store Data Collector** — Web scraper that builds a database of mattress-selling locations across India (contact details, addresses, geolocation) for market/competitor mapping.
+- **WhatsApp Campaign Sender** — Sends WhatsApp campaigns (text + media + link) round-robin across multiple numbers to keep per-number volume low, for sales/marketing outreach.
 
 ## Featured Projects
 
@@ -62,6 +70,14 @@ Internal tools built for Peps Industries — private repos, described here by pr
 ## GitHub Activity
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=DS-Hariprakash)
+
+## Achievements
+
+- **M.Sc. in Data Science and Business Analytics** — Second degree, focused on data-driven decision-making, predictive modeling, and business strategy.
+- **International Paper Presentation** — Presented a research paper on *Blockchain Technology* at the International Conference on Recent Trends in Computing, Communication, and Information Technology (ICRTCIT-2022), Sri Ramakrishna College of Arts & Science, Coimbatore.
+- **Debut Novel Writer** — Authored a debut novel.
+
+More detail on each: [686ca2363bf9e.site123.me](https://686ca2363bf9e.site123.me/)
 
 ## Connect
 
