@@ -38,8 +38,7 @@ Internal tools built for Peps Industries — private repos, described here by pr
 
 ## GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DS-Hariprakash&show_icons=true&theme=default&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Hariprakash&layout=compact)
+![GitHub streak](https://streak-stats.demolab.com/?user=DS-Hariprakash)
 
 ## Connect
 
