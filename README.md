@@ -67,10 +67,6 @@ Internal tools built for Peps Industries — private repos, described here by pr
 | [Vocal-Forge-V2](https://github.com/DS-Hariprakash/Vocal-Forge-V2) | Voice cloning/synthesis studio built with React + TypeScript — real-time waveform visualization and vocal profiling |
 | [Stock-market-future-prediction](https://github.com/DS-Hariprakash/Stock-market-future-prediction) | Streamlit ML app forecasting stock prices with Random Forest / Gradient Boosting / Linear Regression |
 
-## GitHub Activity
-
-![GitHub streak](https://streak-stats.demolab.com/?user=DS-Hariprakash)
-
 ## Achievements
 
 - **M.Sc. in Data Science and Business Analytics** — Second degree, focused on data-driven decision-making, predictive modeling, and business strategy.
